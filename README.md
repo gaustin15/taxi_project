@@ -2,8 +2,9 @@
 predicting duration of nyc taxi trips
 
 This is for a school project, in which we were assigned to use BigQuery to load nyc taxi trip data, and train a model to predict the trip durations.
-Requirements were to join at least one other table the data, and to only use data from the year 2016 when training the model. 
-The test data is from the year 2015, so I am expecting the results on that data to be worse than those shown in the model selection file. 
+Requirements were to join at least one other bigquery table the data, and to only use data from the year 2016 when training the model. 
+
+The test data is from the year 2015, so I am expecting the results on that data to be worse than those shown in the model selection file. The predictions themselves are to be tested on the last day of class. 
 
 For these ipynb files to run, a google bigquery account needs to be set up.
 
